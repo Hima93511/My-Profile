@@ -56,12 +56,12 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Himanshu Garg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ayush Pandey" /></a><a href="https://ko-fi.com/Ayush Pandey"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ayush Pandey" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Himanshu Garg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Himanshu Garg" /></a><a href="https://ko-fi.com/Himanshu Garg"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Himanshu Garg" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandittayush&show_icons=true&locale=en&layout=compact" alt="pandittayush" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandittayush&" alt="pandittayush" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hima93511&" alt="Himanshugarg" /></p>
 
 
 
